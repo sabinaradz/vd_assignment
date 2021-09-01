@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#banner {
+  display: flex;
+  justify-content: space-around;
+  background-color: silver;
+  font-size: 30px;
+  width: 100%;
+  margin: 0;
+  padding: 20px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-style: italic;
+  cursor: pointer;
+}
+p {
+  margin: 30px;
+}
+h1 {
+  margin-left: 50%;
+}
+h3 {
+  font-style: oblique;
+}
+#portfoliodescription {
+  margin-top: 50px;
+  font-size: 30px;
+}
+.edits {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#logopic {
+  display: flex;
+  justify-content: center;
+}
+#gif {
+  display: flex;
+  justify-content: center;
+}
